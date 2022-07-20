@@ -1,0 +1,10 @@
+El Login del usuario es: user04 Nombre del usuario es : DIEGO ISMAEL El Apellido Paterno es: BERUMEN El Apellido Materno es: CEDILLO 
+El Login del usuario es: user05 Nombre del usuario es : AURORA El Apellido Paterno es: ESCALANTE El Apellido Materno es: PALAFOX 
+El Login del usuario es: user06 Nombre del usuario es : JOYCELENE FABIOLA El Apellido Paterno es: ESTRADA El Apellido Materno es: BARBA 
+El Login del usuario es: user09 Nombre del usuario es : RAMON ANDRES El Apellido Paterno es: FIERROS El Apellido Materno es: ROBLES 
+El Login del usuario es: user14 Nombre del usuario es : JOSAFAT GERARDO El Apellido Paterno es: HERNANDEZ El Apellido Materno es: SAUCEDO 
+El Login del usuario es: user15 Nombre del usuario es : ROSALIA El Apellido Paterno es: JIMENEZ El Apellido Materno es: GONZALEZ 
+El Login del usuario es: user16 Nombre del usuario es : LAURA CELENE El Apellido Paterno es: JIMENEZ El Apellido Materno es: RIOS 
+El Login del usuario es: user17 Nombre del usuario es : ANGELICA El Apellido Paterno es: LOPEZ El Apellido Materno es: CORTES 
+El Login del usuario es: user18 Nombre del usuario es : CRISTIAN IVAN El Apellido Paterno es: LOPEZ El Apellido Materno es: GOMEZ 
+El Login del usuario es: user19 Nombre del usuario es : MARLENE GABRIELA El Apellido Paterno es: LOPEZ El Apellido Materno es: MEZA 

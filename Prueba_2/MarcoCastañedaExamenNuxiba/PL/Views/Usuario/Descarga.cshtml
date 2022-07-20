@@ -1,0 +1,33 @@
+﻿@model ML.Usuario
+@{
+    ViewBag.Title = "Descarga";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="https://resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Registros Descarga</h2>
+            <h5>Descarga los registros :</h5>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-md-12">
+            @using (Html.BeginForm("Convertir", "Usuario", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+
+                <div class="form-group">
+                    <div class="col-md-3">
+                        <input type="submit" value="Descargar" class="btn btn-primary" />                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
